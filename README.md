@@ -1,7 +1,7 @@
 競プロRuby環境
 
 1. コンテナを起動
-docker-compose up -d
+docker compose up -d
 
 2. コンテナに入る
 docker compose exec ruby sh
